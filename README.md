@@ -1,16 +1,13 @@
-# admin_panel
+#Grocery Flutter Application with Firebase Backend Web-Based Admin Panel 
+## A Flutter E-Grocery Application
+***Must Read***
+* This app contain a UI for a Online Grocery app web admin panel.
+* Kindly insert yor API from firestore in order to use app.
+* This repo contain complete code for fornt-end is highly responsive desgin.
 
-A new Flutter project.
 
-## Getting Started
+[You can find the app repo here ](https://github.com/kk-hammad-ali/grocery-app-ui-backend)
 
-This project is a starting point for a Flutter application.
+> Developers
+* Hammad Ali 
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
